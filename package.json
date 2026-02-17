@@ -45,7 +45,7 @@
     "lodash": "^4.17.21",
     "lucide-react": "^0.460.0",
     "marked": "^15.0.3",
-    "mermaid": "^11.4.1",
+    "mermaid": "^11.12.3",
     "next": "14.2.18",
     "next-intl": "^3.26.1",
     "next-themes": "^0.4.4",
